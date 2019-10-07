@@ -1,8 +1,8 @@
 # TUGAS 3 ASISTENSI PBO - Jumat, 4 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: Muhammad Hanif Sulaiman Iskandar
 
-NRP: `isi nrp disini`
+NRP: 06111840000087
 
 ## Deskripsi Soal
 Buat class **LinearEquation** untuk sistem persamaan linear 2x2:
@@ -51,7 +51,9 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
-masukkan screenshot output disini
+![Tugas3Soal1](https://user-images.githubusercontent.com/56248817/66329448-bedc1900-e958-11e9-8715-fadf66d4024b.PNG)
+![Tugas3Soal2](https://user-images.githubusercontent.com/56248817/66329449-bedc1900-e958-11e9-88a4-5c93ea217cd5.PNG)
+![Tugas3Soal3](https://user-images.githubusercontent.com/56248817/66329450-bedc1900-e958-11e9-8bc7-a11621ae66bf.PNG)
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
